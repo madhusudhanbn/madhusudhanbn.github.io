@@ -1,16 +1,14 @@
 ## Project: Embrace the Chaos
 
-**Project description:** Service outages can result in huge revenue losses and reputational damage to organizations. So how can we reduce the risk of downtime? The answer lies in chaos engineering. We will build a website using EC2 instances, Cognito, and DynamoDB, then use Gremlin to break the system. We’ll take down a single server, create network black holes, overload the CPU, and even simulate an AWS AZ or region failure, and observe the impacts. By triggering failures intentionally in a controlled way, we can be confident that our systems can deal with those failures before they occur (especially in the middle of the night, when we least expect it). Let’s unleash the gremlins and embrace the chaos!
+**Project description:** Service outages can result in huge revenue losses and reputational damage to organizations. So how can we reduce the risk of downtime? The answer lies in chaos engineering. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+We will build a website using EC2 instances, Cognito, and DynamoDB, then use Gremlin to break the system. We’ll take down a single server, create network black holes, overload the CPU, and even simulate an AWS AZ or region failure, and observe the impacts. By triggering failures intentionally in a controlled way, we can be confident that our systems can deal with those failures before they occur (especially in the middle of the night, when we least expect it). Let’s unleash the gremlins and embrace the chaos!
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 1. Pre-requisites
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+* AWS Free Tier Account
+* AWS CLI
+* Gremlin Free Trial Account
 
 ### 2. Assess assumptions on which statistical inference will be based
 
@@ -27,5 +25,3 @@ if (isAwesome){
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
