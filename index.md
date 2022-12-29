@@ -4,8 +4,10 @@
 
 ### DevSecOps Projects
 
-[Project 1 Embrace the Chaos](/chaos_page)
+#### [Project 1 Embrace the Chaos](/chaos_page)
 <img src="images/Chaos-Engineering-1.jpg?raw=true"/>
+
+Service outages can result in huge revenue losses and reputational damage to organizations. So how can we reduce the risk of downtime? The answer lies in chaos engineering.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
