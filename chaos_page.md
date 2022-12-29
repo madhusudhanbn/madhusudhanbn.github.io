@@ -1,6 +1,6 @@
 ## Project: Embrace the Chaos
 
-**Project description:** Service outages can result in huge revenue losses and reputational damage to organizations. So how can we reduce the risk of downtime? The answer lies in chaos engineering. This is based on A Cloud Guru Project to build a website using EC2 instances, Cognito, and DynamoDB, then use Gremlin to break the system. We’ll take down a single server, create network black holes, overload the CPU, and even simulate an AWS AZ or region failure, and observe the impacts. By triggering failures intentionally in a controlled way, we can be confident that our systems can deal with those failures before they occur (especially in the middle of the night, when we least expect it). Let’s unleash the gremlins and embrace the chaos!
+**Project description:** Service outages can result in huge revenue losses and reputational damage to organizations. So how can we reduce the risk of downtime? The answer lies in chaos engineering. We will build a website using EC2 instances, Cognito, and DynamoDB, then use Gremlin to break the system. We’ll take down a single server, create network black holes, overload the CPU, and even simulate an AWS AZ or region failure, and observe the impacts. By triggering failures intentionally in a controlled way, we can be confident that our systems can deal with those failures before they occur (especially in the middle of the night, when we least expect it). Let’s unleash the gremlins and embrace the chaos!
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
