@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### DevSecOps Projects
 
-[Project 1 Embrace the Chaos](/sample_page)
+[Project 1 Embrace the Chaos](/chaos_page)
 <img src="images/Chaos-Engineering-1.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Cloud Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,3 +27,12 @@
 
 ---
 
+### CI/CD Projects
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
