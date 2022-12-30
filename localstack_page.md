@@ -4,7 +4,7 @@
 
 We will build a website using EC2 instances, Cognito, and DynamoDB, then use Gremlin to break the system. We’ll take down a single server, create network black holes, overload the CPU, and even simulate an AWS AZ or region failure, and observe the impacts. By triggering failures intentionally in a controlled way, we can be confident that our systems can deal with those failures before they occur (especially in the middle of the night, when we least expect it). Let’s unleash the gremlins and embrace the chaos!
 
-### An example provider configuration:
+### An example terraform provider configuration:
 
 main.tf
 ```terraform
