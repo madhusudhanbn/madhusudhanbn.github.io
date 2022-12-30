@@ -34,7 +34,7 @@ Service outages can result in huge revenue losses and reputational damage to org
 #### [Project 1 Local Cloud Development with Localstack](/localstack_page)
 <img src="images/localstack-banner.svg?raw=true"/>
 
-With LocalStack, we can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider! Whether we are testing complex CDK applications or Terraform configurations, or just beginning to learn about AWS services, LocalStack helps speed up and simplify our testing and development workflow.
+With LocalStack, we can run our AWS applications or Lambdas entirely on our local machine without connecting to a remote cloud provider! Whether we are testing complex CDK applications or Terraform configurations, or just beginning to learn about AWS services, LocalStack helps speed up and simplify our testing and development workflow.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
