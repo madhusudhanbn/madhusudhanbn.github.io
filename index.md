@@ -25,8 +25,6 @@ With LocalStack, we can run our AWS applications or Lambdas entirely on our loca
 
 ---
 
----
-
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
