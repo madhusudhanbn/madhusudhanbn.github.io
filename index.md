@@ -11,7 +11,7 @@ Service outages can result in huge revenue losses and reputational damage to org
 
 ---
 
-#### [Project 2 Local Cloud Development with Localstack](/localstack_page)
+#### [Project 2 Local Cloud Development with LocalStack](https://hashnode.localstack.cloud/smooth-transition-from-aws-to-localstack-for-your-dev-environment)
 <img src="images/localstack-banner.svg?raw=true"/>
 
 With LocalStack, we can run our AWS applications or Lambdas entirely on our local machine without connecting to a remote cloud provider! Whether we are testing complex CDK applications or Terraform configurations, or just beginning to learn about AWS services, LocalStack helps speed up and simplify our testing and development workflow.
