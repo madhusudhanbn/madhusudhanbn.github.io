@@ -18,7 +18,7 @@ With LocalStack, we can run our AWS applications or Lambdas entirely on our loca
 
 ---
 
-#### [Project 3 AWS AWS Cloud Project Bootcamp](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023)
+#### [Project 3 AWS Cloud Project Bootcamp](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023)
 <img src="images/cruddur-banner.jpg" width="1000">
 
 We are building a micro-blogging platform named CRUDDUR. Unlike Twitter, Instagram or Snapchat, CRUDDUR is a true ephemeral-first micro-blogging platform. It will allow users to post updates, thoughts, and photos that automatically expire after a period of time, ensuring that your personal information and conversations stay relevant and in the moment. CRUDDUR, with expiring posts, will reduce trust and safety issues by limiting the amount of personal information online, decrease the potential for cyberbullying and harassment and improve the overall user experience through its features.
