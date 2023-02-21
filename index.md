@@ -2,7 +2,7 @@
 
 ---
 
-### DevSecOps Projects
+### Cloud and DevSecOps Projects
 
 #### [Project 1 Embrace the Chaos](/chaos_page)
 <img src="images/Chaos-Engineering-1.jpg?raw=true" width="1000">
