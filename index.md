@@ -25,8 +25,11 @@ We are building a micro-blogging platform named CRUDDUR. Unlike Twitter, Instagr
 
 
 ### Certifications 
-- [1 AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e0077a91-70d2-4b9f-aaa4-7dc2dcca3791?source=linked_in_profile)
-- [2 KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/14855628-10a6-4f92-bbd5-efbaff717b26/linked_in_profile)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e0077a91-70d2-4b9f-aaa4-7dc2dcca3791?source=linked_in_profile)
+- [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/14855628-10a6-4f92-bbd5-efbaff717b26/linked_in_profile)
+- [GCCEP: Gremlin Certified Chaos Engineering Practitioner](https://www.credential.net/7cf8178e-b617-4983-806e-41acd2862d6e)
+- [Harness Certified Chaos Engineering Practitioner](https://verify.skilljar.com/c/2rj4nf9j42bj)
+- [API Academy Certified API Security Architect](pdf/api-security-architect.pdf)
 
 ---
 <!-- 
