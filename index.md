@@ -25,6 +25,13 @@ We are building a micro-blogging platform named CRUDDUR. Unlike Twitter, Instagr
 
 ---
 
+#### [Project 4 Deploy a Reddit Clone with Kubernetes](/reddit_page)
+<img src="images/dummy_thumbnail.jpg?raw=true" width="1000"/>
+
+Project:  Automating the Delivery of Highly Scalable Reddit Clone Application using CI/CD Pipeline with Docker, Docker Hub, and Kubernetes
+
+---
+
 ### Certifications 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e0077a91-70d2-4b9f-aaa4-7dc2dcca3791?source=linked_in_profile)
 - [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/14855628-10a6-4f92-bbd5-efbaff717b26/linked_in_profile)
