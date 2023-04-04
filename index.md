@@ -32,6 +32,14 @@ Project:  Automating the Delivery of Highly Scalable Reddit Clone Application us
 
 ---
 
+#### [Project 5 Creating a Terraform Configuration for Multi-Cloud Use ](/multicloud_page)
+<img src="images/dummy_thumbnail.jpg?raw=true" width="1000"/>
+
+- [Creating a Terraform Configuration for Multi-Cloud Use](https://github.com/madhusudhanbn/content-terraform-configuration-multi-cloud)
+- [Deploying and Managing a Web Application in Kubernetes with Terraform](https://github.com/madhusudhanbn/content-deploying-and-managing-a-web-application-in-kubernetes-with-terraform)
+
+---
+
 ### Certifications 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e0077a91-70d2-4b9f-aaa4-7dc2dcca3791?source=linked_in_profile)
 - [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/14855628-10a6-4f92-bbd5-efbaff717b26/linked_in_profile)
